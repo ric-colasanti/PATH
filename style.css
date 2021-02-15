@@ -69,3 +69,16 @@
     display:none;
   }
 }
+
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.path-partner-logo {
+    height:200px;
+    widt: 400px;
+    margin: 10px;
+}

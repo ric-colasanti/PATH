@@ -1,4 +1,5 @@
 </div>
+<p class="debug">V0.02</p>
 <div class="jumbotron text-center path-footer" style="margin-bottom:0">
 <div class="container ">
         <div class="row">
